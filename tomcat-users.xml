@@ -42,5 +42,5 @@
   <user username="role1" password="<must-be-changed>" roles="role1"/>
 -->
  <role rolename="manager-script"/>   
- <user username="deployer" password="javac" roles="manager-script"/>
+ <user username="deployer1" password="javac" roles="manager-script"/>
 </tomcat-users>
